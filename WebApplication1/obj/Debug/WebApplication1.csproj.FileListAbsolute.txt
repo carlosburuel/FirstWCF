@@ -1,5 +1,0 @@
-c:\users\stx-30\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\csc.exe
-c:\users\stx-30\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-c:\users\stx-30\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
-c:\users\stx-30\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
-c:\users\stx-30\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
